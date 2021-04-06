@@ -5,7 +5,7 @@ title: Stockton Grimaud
 # Stockton Grimaud
 
 <div id="webaddress">
-<a href="stocktong97@gmail.com">stoctkong97@gmail.com</a>
+<a href="stocktong97@gmail.com">stocktong97@gmail.com</a>
 | <a href="https://www.linkedin.com/in/stocktong/">LinkedIn</a>
 | <a href="https://github.com/Sgrimaud">GitHub</a>
 </div>
@@ -33,18 +33,17 @@ __Simplicity Collection Software | Idaho Falls, ID__ `Nov 2020 - Present`
 
 __Brigham Young University - Idaho__ `Feb 2020 – Present` 
 
-- Collected and analyzed key metrics of online community for instructors teaching at BYU-Idaho and BYU Pathways  #maybe say online students?
+- Collected and analyzed key metrics of online community activity for instructors teaching at BYU-Idaho and BYU Pathway 
 - Consulted with management and presented results on key metrics and correlation to instructor performance using Excel and R
-- Performed ad hoc projects and updated dashboards #more detail?
+- Performed ad hoc projects and updated dashboards
 
 ### Technical Project Manager - Data Science Consultant 
 
 __Research and Business Development Center | Rexburg, ID__ `Sep 2020 – Present`
 - RDBC Client - Westmark Credit Union
-- Led team and coordinated efforts in creating project scope and objectives #for ...?
+- Led team and coordinated efforts in creating project scope and objectives for predicting likelihood of accepting credit cards
 - Utilized machine learning to create metric for likelihood of pre-approved customer accepting credit card offer
-- Wrangled and cleaned over 800,000 rows data for the use in visualization and analysis ## in Python and R?
-- Consulted with faculty at BYU-Idaho to navigate gaining insight from transaction data  ## Not sure I would say this ...
+- Wrangled and cleaned over 800,000 rows data for the use in visualization and analysis using R
 - Presented analysis of transaction data and visualizations of customer account activity to Westmark Credit Union management
 
 ### Data Science Tutor - Teachers Assistant
@@ -57,7 +56,6 @@ __Math & Tutoring Department | Brigham Young University - Idaho__ `Sep 2020 – 
 __Data Science Society | Brigham Young University - Idaho__ `Jan 2020 – Dec 2020`
 
 - Led group of students to create dataset for Idaho farmers by web scraping historical wheat prices using R and Python
-- Implemented updates to Python code for a gantry crane used in loading products for distribution  # this is confusing to me...
 
 <!-- ### Footer
 
